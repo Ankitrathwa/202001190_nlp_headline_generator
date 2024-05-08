@@ -1,5 +1,7 @@
 # 202001190_nlp_headline_generator
 
+ Name : Ankit Rathwa 
+ student id : 202001190
 checkpoint link : https://drive.google.com/file/d/1c6u0lhRW8iPENJblwzLPDgEj4QwYVfTc/view?usp=drive_link
 
 dataset link : 
